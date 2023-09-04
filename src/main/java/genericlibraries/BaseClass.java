@@ -21,6 +21,7 @@ import pompages.NewEventInfoPage;
 import pompages.NewLeadInfoPage;
 import pompages.OrganizationPage;
 //base class
+//genericlibraries
 public class BaseClass {
 	protected PropertiesUtility property;
 	protected ExcelUtility excel;
