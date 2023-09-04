@@ -20,7 +20,7 @@ import pompages.NewContactInfoPage;
 import pompages.NewEventInfoPage;
 import pompages.NewLeadInfoPage;
 import pompages.OrganizationPage;
-
+//base class
 public class BaseClass {
 	protected PropertiesUtility property;
 	protected ExcelUtility excel;
